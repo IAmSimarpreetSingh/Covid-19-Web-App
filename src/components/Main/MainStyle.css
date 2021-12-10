@@ -1,0 +1,39 @@
+@media (max-width: 768px) {
+  .reportTable {
+    margin-top: 5%;
+    position: relative;
+  }
+}
+
+.country,
+.tCases,
+.aCases,
+.rCases,
+.cCases,
+.deaths {
+  border-radius: 5px;
+}
+
+.country {
+  background-color: #1e90ff;
+}
+
+.tCases {
+  background-color: #ff8c00;
+}
+
+.aCases {
+  background-color: #ffd700;
+}
+
+.rCases {
+  background-color: #92c75e;
+}
+
+.cCases {
+  background-color: #800080;
+}
+
+.deaths {
+  background-color: #ff0000;
+}
