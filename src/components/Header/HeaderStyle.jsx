@@ -154,11 +154,16 @@ export const MainHeading = styled.div`
             }
         }
 
+        
     }
-
-
-
-
+    
+        @media (max-width: 1860px) {
+            margin-top: 5.5%;
+        }
+        @media (max-width: 1420px) {
+            margin-top: 6%;
+        }
+    }
 
     @media (max-width: 1420px) {
         width:70%;

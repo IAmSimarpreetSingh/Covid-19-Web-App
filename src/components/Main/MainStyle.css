@@ -37,3 +37,18 @@
 .deaths {
   background-color: #ff0000;
 }
+
+.searchField {
+  margin-top: 5%;
+  background-color: #ffffff;
+  width: 350px;
+  border: none;
+  border-radius: 10px;
+  height: 50px;
+}
+
+.searchBtn {
+  margin-top: 5%;
+  position: relative;
+  margin-left: 5%;
+}
